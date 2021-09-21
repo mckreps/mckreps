@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mckreps
-- 👀 I’m interested in analytics, optimization, clean tech, process improvement.
+- 👀 I’m interested in analytics, optimization, clean tech, fin tech, process improvement.
 - 🌱 I’m currently learning at UT Austin's MS Analytics program.
-- 💞️ I’m looking to collaborate on new projects.
+- 💞️ I’m looking to collaborate on new project and network.
 - 📫 How to reach me mckreps@gmail.com
 
 <!---
